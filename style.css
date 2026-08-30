@@ -3,3 +3,12 @@ body{
     color: brown;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.team{
+    background-color: aqua;
+    color: black;
+}
+
+footer{
+    background-color: gold;
+}
