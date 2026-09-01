@@ -7,18 +7,19 @@ body{
 }
 
 .team{
-    background-color: aqua;
+    background-color: rgb(6, 238, 238);
     color: black;
     
 }
 
-footer{
-    background-color: gold;
-    padding: 10px;
-}
 p{
     color:blue;
     font-weight: bold;
     line-height: 1.5;
+    padding: 10px;
+}
+
+footer{
+    background-color: gold;
     padding: 10px;
 }
