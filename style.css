@@ -1,4 +1,6 @@
 body{
+    width:50%;
+    margin: 0 auto;
     background-color: bisque;
     color: brown;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -7,12 +9,16 @@ body{
 .team{
     background-color: aqua;
     color: black;
+    
 }
 
 footer{
     background-color: gold;
+    padding: 10px;
 }
 p{
     color:blue;
     font-weight: bold;
+    line-height: 1.5;
+    padding: 10px;
 }
