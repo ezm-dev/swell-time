@@ -12,3 +12,7 @@ body{
 footer{
     background-color: gold;
 }
+p{
+    color:blue;
+    font-weight: bold;
+}
