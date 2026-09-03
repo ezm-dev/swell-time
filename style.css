@@ -1,9 +1,19 @@
 body{
+
     width:50%;
     margin: 0 auto;
     background-color: bisque;
     color: brown;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande'
+    , 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+      height: 100vh;
+
+
 }
 
 .team{
@@ -20,6 +30,7 @@ p{
 }
 
 footer{
+  
     background-color: gold;
     padding: 10px;
 }
